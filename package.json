@@ -1,0 +1,19 @@
+{
+  "name": "search-ingine-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongodb": "^4.3.1",
+    "remove-stopwords": "^1.0.3",
+    "stopwords": "^0.0.9"
+  }
+}
